@@ -4,6 +4,9 @@ ASTRA is an autonomous AI-powered decision intelligence platform designed to opt
 
 The system autonomously analyzes demand forecasts, pricing strategies, inventory risks, and operational uncertainty to recommend profit-maximizing business decisions in real time.
 
+
+### Live Demo
+https://urvi-21-astra-appdashboard-hyquio.streamlit.app/
 ---
 
 # Problem Statement
